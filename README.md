@@ -1,1 +1,4 @@
+# Data_set
+I taken a dataset from the Kaggle. the datast is Spam.csv it have 5 columns v1 have the spam and ham  and v2 have the text message and remaing columns have the null values and some text.
 # Spam_Classifier-
+This Python script takes you on a journey to identify spam messages. It starts by preparing the necessary tools, then cleans and explores a dataset of spam messages from Kaggle. The script uses visuals and stats to understand the data better. It goes on to process the text using natural language techniques and shows the most common words in spam and non-spam messages through word clouds. The final part builds and tests three types of models to see how well they can identify spam. The results are summarized with easy-to-understand metrics like accuracy and precision. Whether you're new to spam detection or want a reliable guide, this script provides clear insights and code you can easily follow.
